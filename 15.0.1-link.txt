@@ -1,0 +1,1 @@
+https://github.com/Vinland-Toolchain/vinland-clang/releases/download/Vinland-Clang-15.0.1-20220925-release/Vinland-Clang-15.0.1-20220925.tar.gz
