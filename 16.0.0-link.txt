@@ -1,1 +1,1 @@
-https://github.com/Vinland-Toolchain/vinland-clang/releases/download/Vinland-Clang-16.0.0-20220925-release/Vinland-Clang-16.0.0-20220925.tar.gz
+https://github.com/Vinland-Toolchain/vinland-clang/releases/download/26092022/vinland-clang--16.0.0-26092022.tar.gz
